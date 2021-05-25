@@ -1,0 +1,1 @@
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2.UWP\CalculadoraIMC2.UWP.csproj;x86

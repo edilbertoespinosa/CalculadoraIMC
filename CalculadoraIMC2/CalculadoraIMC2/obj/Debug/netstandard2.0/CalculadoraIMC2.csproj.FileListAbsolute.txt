@@ -1,0 +1,14 @@
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\bin\Debug\netstandard2.0\CalculadoraIMC2.deps.json
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\bin\Debug\netstandard2.0\CalculadoraIMC2.dll
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\bin\Debug\netstandard2.0\ref\CalculadoraIMC2.dll
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\bin\Debug\netstandard2.0\CalculadoraIMC2.pdb
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\CalculadoraIMC2.csprojAssemblyReference.cache
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\CalculadoraIMC2.AssemblyInfoInputs.cache
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\CalculadoraIMC2.AssemblyInfo.cs
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\CalculadoraIMC2.csproj.CoreCompileInputs.cache
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\CalculadoraIMC2.dll
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\ref\CalculadoraIMC2.dll
+C:\EES\CalculadoraIMC2\CalculadoraIMC2\CalculadoraIMC2\obj\Debug\netstandard2.0\CalculadoraIMC2.pdb
